@@ -1,0 +1,5 @@
+{
+  "name": "Z-Chess: Real-Time Combat",
+  "description": "A high-speed, real-time chess game where pieces have cooldowns instead of turns. Features deep customization and AI-powered strategy.",
+  "requestFramePermissions": []
+}
